@@ -36,6 +36,22 @@ a:hover{
 h1{
     text-align: center;
 }
-button{
-    margin: 10px 200px 10px 550px;
+.button{
+    margin: 40px 350px 10px 530px;
+}
+.banner{
+    margin: 40px 330px;
+}
+.background1{
+    background-image:url(Images/hero-bg.png);
+}
+.background-2{
+    background-color: blue;
+    color: white;
+}
+.huda{
+    background-color:aqua;
+}
+h3{
+    text-align: center;
 }
