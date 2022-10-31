@@ -3,6 +3,9 @@
     display: flex; 
     justify-content: space-between; 
 }
+.navbar ul li:hover{
+    color: blue;
+}
 body{
     padding-top: 350px;
 }
